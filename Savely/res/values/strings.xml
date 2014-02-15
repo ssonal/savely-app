@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Savely</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_newItem">New</string>
+    <string name="homescreen_snapshot_heading">Snapshot</string>
+    <string name="title_activity_add_new">AddNewActivity</string>
+
+</resources>
