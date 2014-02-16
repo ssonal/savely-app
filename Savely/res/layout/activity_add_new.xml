@@ -122,10 +122,23 @@
         </EditText>
 
         <Button
-            android:id="@+id/newEntrySubmitButton"
+            android:id="@+id/button1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Submit" />
+
+<!--         <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:entries="@array/account_list"
+        	android:prompt="@string/account_prompt" />
+        
+        <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit" /> -->
 
     </LinearLayout>
 

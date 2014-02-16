@@ -7,5 +7,11 @@
     <string name="action_newItem">New</string>
     <string name="homescreen_snapshot_heading">Snapshot</string>
     <string name="title_activity_add_new">AddNewActivity</string>
+    <string-array name="account_list">
+        <item>Piggy Bank</item>
+        <item>SB Account</item>
+        <item>Wallet</item>
+    </string-array>
+    <string name="account_prompt">Choose an account</string>
 
 </resources>
