@@ -1,7 +1,9 @@
-package com.example.savely;
+package com.example.savely.SQLHelpers;
 
 import java.util.LinkedList;
 import java.util.List;
+
+import com.example.savely.SQLModels.Entry;
 
 import android.content.ContentValues;
 import android.content.Context;

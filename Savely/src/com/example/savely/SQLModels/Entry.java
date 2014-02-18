@@ -1,4 +1,4 @@
-package com.example.savely;
+package com.example.savely.SQLModels;
 
 public class Entry {
 	
